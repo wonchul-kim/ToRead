@@ -8,3 +8,4 @@
 
 ### For rotated bouding box
 * https://github.com/yangxue0827/RotationDetection
+* https://github.com/SJTU-Thinklab-Det/DOTA-DOAI
