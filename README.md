@@ -13,3 +13,7 @@
 
 ### Pytorch libraries
 * [timm](https://github.com/rwightman/pytorch-image-models)
+* mm
+  * [mmsegmentation]
+  * [mmdetectoin](https://github.com/open-mmlab/mmdetection)
+* [detectron2](https://github.com/facebookresearch/detectron2)
