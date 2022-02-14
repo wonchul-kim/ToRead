@@ -36,3 +36,4 @@ I used these references to build machine learning dashboard where:
 * https://velog.io/@killi8n/Django%EC%99%80-React%EB%A1%9C-%ED%95%9C%EC%A4%84-%EB%85%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-pvjmal5uxy#httpsgithubcomyungbludd-note
 * https://github.com/fanqingsong/machine_learning_system_realtime
 * https://www.deploymachinelearning.com/
+* https://dbza.tistory.com/entry/django-channels-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-consumer-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84
