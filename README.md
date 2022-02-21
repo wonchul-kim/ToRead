@@ -20,7 +20,7 @@
 
 
 
-## Web application (Frontend & Backend)
+## Application (Frontend & Backend)
 I used these references to build machine learning dashboard where:
  * build machine learning environments and pipelines
    * distributed multi-gpu training
