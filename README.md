@@ -37,3 +37,21 @@ I used these references to build machine learning dashboard where:
 * https://github.com/fanqingsong/machine_learning_system_realtime
 * https://www.deploymachinelearning.com/
 * https://dbza.tistory.com/entry/django-channels-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-consumer-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84
+
+
+## accelerating the performance of deep learning framework 
+
+### For datasets 
+* Ray
+
+
+### For training 
+
+#### Multiple gpus 
+* Pytorch distributed learning APIs
+* Ray
+* Hovorod
+
+#### patch-based learning form computer vision 
+
+#### 
