@@ -48,7 +48,9 @@ I used these references to build machine learning dashboard where:
 ### For training 
 
 #### Multiple gpus 
-* Pytorch distributed learning APIs
+* [Pytorch distributed learning APIs](https://tutorials.pytorch.kr/intermediate/ddp_tutorial.html)
+  * https://github.com/HeaseoChung/BSRGAN-PyTorch/blob/master/train.py 
+  * [torchvision](https://github.com/pytorch/vision/tree/main/references/segmentation)
 * Ray
 * Hovorod
 
