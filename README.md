@@ -43,7 +43,7 @@ I used these references to build machine learning dashboard where:
 
 ### For datasets 
 * Ray
-
+* [Data Loader, Better, Faster, Stronger](https://d2.naver.com/helloworld/3773258)
 
 ### For training 
 
