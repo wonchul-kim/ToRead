@@ -18,7 +18,8 @@
   * [mmdetectoin](https://github.com/open-mmlab/mmdetection)
 * [detectron2](https://github.com/facebookresearch/detectron2)
 
-
+### deep learning framework
+* [MIScnn](https://github.com/frankkramer-lab/MIScnn)
 
 ## Application (Frontend & Backend)
 I used these references to build machine learning dashboard where:
