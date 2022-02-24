@@ -1,5 +1,8 @@
 # awesomes
 
+## install front
+https://4eda.tistory.com/entry/Ubuntu-20041-LTS%EC%97%90%EC%84%9C-nvm-nodejs-npm-%EC%84%A4%EC%B9%98%EC%99%80-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0
+
 ## Object detection
 
 ### For small/tiny objects
