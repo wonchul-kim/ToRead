@@ -43,6 +43,8 @@ I used these references to build machine learning dashboard where:
 * https://dbza.tistory.com/entry/django-channels-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-consumer-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84
 
 * [How to implement websocket in Django](https://www.neerajbyte.com/post/how-to-implement-websocket-in-django-using-channels-and-stream-websocket-data)
+* [MLOps](https://medium.com/analytics-vidhya/fundamentals-of-mlops-part-1-a-gentle-introduction-to-mlops-1b184d2c32a8)
+
 
 ## accelerating the performance of deep learning framework 
 
