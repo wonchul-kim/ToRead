@@ -13,6 +13,10 @@ https://4eda.tistory.com/entry/Ubuntu-20041-LTS%EC%97%90%EC%84%9C-nvm-nodejs-npm
 * https://github.com/yangxue0827/RotationDetection
 * https://github.com/SJTU-Thinklab-Det/DOTA-DOAI
 
+### About Non Maximum Suppression
+* https://github.com/Zzh-tju/ultralytics-YOLOv3-Cluster-NMS/blob/master/utils/utils.py
+* https://github.com/dbolya/yolact
+* https://ganghee-lee.tistory.com/46
 
 ### Pytorch libraries
 * [timm](https://github.com/rwightman/pytorch-image-models)
