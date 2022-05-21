@@ -3,6 +3,16 @@
 ## install front
 https://4eda.tistory.com/entry/Ubuntu-20041-LTS%EC%97%90%EC%84%9C-nvm-nodejs-npm-%EC%84%A4%EC%B9%98%EC%99%80-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0
 
+## Action Recognition
+
+### skeleton-based 
+* https://github.com/niais/Awesome-Skeleton-based-Action-Recognition#supervised-skeleton-based-action-recognition
+* https://niais.github.io/Awesome-Skeleton-based-Action-Recognition/
+* https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f
+* https://cv.gluon.ai/tutorials/index.html
+* https://cv.gluon.ai/model_zoo/action_recognition.html
+
+
 ## Object detection
 
 ### For small/tiny objects
