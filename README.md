@@ -11,6 +11,7 @@ https://4eda.tistory.com/entry/Ubuntu-20041-LTS%EC%97%90%EC%84%9C-nvm-nodejs-npm
 * https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f
 * https://cv.gluon.ai/tutorials/index.html
 * https://cv.gluon.ai/model_zoo/action_recognition.html
+* * https://github.com/kennymckormick/pyskl
 
 
 ## Object detection
